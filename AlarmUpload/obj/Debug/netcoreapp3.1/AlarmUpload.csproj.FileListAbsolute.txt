@@ -1,0 +1,13 @@
+C:\Users\mjuan\Documents\csharp\AlarmUpload\bin\Debug\netcoreapp3.1\AlarmUpload.exe
+C:\Users\mjuan\Documents\csharp\AlarmUpload\bin\Debug\netcoreapp3.1\AlarmUpload.deps.json
+C:\Users\mjuan\Documents\csharp\AlarmUpload\bin\Debug\netcoreapp3.1\AlarmUpload.runtimeconfig.json
+C:\Users\mjuan\Documents\csharp\AlarmUpload\bin\Debug\netcoreapp3.1\AlarmUpload.runtimeconfig.dev.json
+C:\Users\mjuan\Documents\csharp\AlarmUpload\bin\Debug\netcoreapp3.1\AlarmUpload.dll
+C:\Users\mjuan\Documents\csharp\AlarmUpload\bin\Debug\netcoreapp3.1\AlarmUpload.pdb
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.csprojAssemblyReference.cache
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.csproj.CoreCompileInputs.cache
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.AssemblyInfoInputs.cache
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.AssemblyInfo.cs
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.dll
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.pdb
+C:\Users\mjuan\Documents\csharp\AlarmUpload\obj\Debug\netcoreapp3.1\AlarmUpload.genruntimeconfig.cache
